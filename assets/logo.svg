@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="300" viewBox="0 0 980 300">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#fff3b0"/><stop offset=".5" stop-color="#d4af37"/><stop offset="1" stop-color="#7b5b16"/></linearGradient></defs>
+<rect width="980" height="300" rx="40" fill="#06130d"/>
+<rect x="10" y="10" width="960" height="280" rx="32" fill="none" stroke="url(#g)" stroke-width="4"/>
+<text x="80" y="130" font-size="52" font-family="Georgia" fill="url(#g)" font-weight="700">Sullivan’s Innovative</text>
+<text x="82" y="190" font-size="30" font-family="Arial" fill="#fff6d1">MARKETING OS • SERPAPI EDITION</text>
+</svg>
